@@ -1,6 +1,2 @@
 # git-101
-Kadir Erman<br>
-25<br>
-Bursa<br>
-Kütahya Dumlupınar Üniversitesi, 3. sınıf<br>
-Bilgisayar Mühendisliği
+Merhaba, ben Kadir Erman. 25 yaşındayım ve Bursa'da yaşıyorum. Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümü 3. sınıf öğrencisiyim
