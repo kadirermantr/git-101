@@ -1,5 +1,5 @@
 # git-101
-Kadir Erman 25<br>
+Kadir Erman 25 yaşındayım<br>
 Bursa'da yaşıyorum<br>
 Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 3. sınıf<br><br>
 # Yeni Eklediğim Bilgiler
